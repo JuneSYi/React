@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# react-complete-guide
+
+#
+
+## Expense Tracker
+
+### Learning React through creating an expense tracker
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
